@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring Data Engineer building a solid foundation in data systems, pipelines, and analytics. Transitioning into the data space with a focus on consistent growth and real-world projects. A dedicated solutionist at heart.<br><br>Currenly working on a Data Engineering short course with a capstone project focused on core fundamentals and pipeline development.
+I am a Data Engineer building a solid foundation in data systems, pipelines, and analytics. Transitioning into the data space with a focus on consistent growth and real-world projects. A dedicated solutionist at heart.<br><br>Currenly working on a Data Engineering short course with a capstone project focused on core fundamentals and pipeline development.
 
 
 ## 🌐 Socials:
